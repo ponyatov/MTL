@@ -5,6 +5,10 @@
 
 github: https://github.com/ponyatov/MTL
 
+### Links
+
 http://melnais.mii.lu.lv/audris/rakstsER.pdf
+
+https://en.wikipedia.org/wiki/Model-driven_architecture
 
 
